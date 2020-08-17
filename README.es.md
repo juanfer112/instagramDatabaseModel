@@ -6,8 +6,8 @@ Aquí hay un video de 4 minutos que explica qué es UML: [https://www.youtube.co
 
 Vamos a crear el Diagrama de relación de entidad para la base de datos de Instagram, un diagrama muy similar a este:
 
-![Diagrama de Instagram](https://github.com/breatheco-de/exercise-instagram-data-modeling/blob/master/assets/example.png?raw=true)
-[Click para abrir el diagrama](https://app.quickdatabasediagrams.com/#/d/LxNXQZ)
+![Diagrama de Instagram elaborado para presentacion](https://github.com/juanfer112/instagramDatabaseModel/blob/master/Screenshot_13.jpg)
+
 
 > 🔥 Puedes usar esta herramienta GRATUITA para practicar su diagrama por primera vez: https://app.quickdatabasediagrams.com/#/d/
 

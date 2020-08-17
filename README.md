@@ -6,7 +6,7 @@ Here is a 4min video explaining what UML is: [https://www.youtube.com/watch?v=UI
 
 We are going to be creating the Entity Relationship Diagram for Instagram Database, a very similar diagram to this one:
 
-![Instagram Diagram](https://github.com/breatheco-de/exercise-instagram-data-modeling/blob/master/assets/example.png?raw=true)
+![Instagram Diagram realizado para presentacion](https://github.com/juanfer112/instagramDatabaseModel/blob/master/Screenshot_13.jpg)
 [Click to open diagram](https://app.quickdatabasediagrams.com/#/d/LxNXQZ)
 
 > 🔥 You can use this FREE tool to practice your diagram for the first time: https://app.quickdatabasediagrams.com/#/d/
